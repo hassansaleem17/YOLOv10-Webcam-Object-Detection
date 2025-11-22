@@ -22,7 +22,7 @@ The project uses:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/YOLOv10-Webcam-Object-Detection.git
+git clone https://github.com/hassansaleem17/YOLOv10-Webcam-Object-Detection.git
 cd YOLOv10-Webcam-Object-Detection
 ````
 
