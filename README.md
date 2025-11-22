@@ -51,12 +51,11 @@ python YOLO_with_Webcam.py
 ---
 
 ## File Structure
+* First of all make sure to install weights for desired model that you want to use
 
 ```
 YOLOv10-Webcam-Object-Detection/
 │
-├── Yolo-Weights/
-│   └── yolov10l.pt                   # YOLOv10 weights
 ├── YOLO_with_Webcam.py               # Main Python script
 └── README.md                         # Project documentation
 ```
